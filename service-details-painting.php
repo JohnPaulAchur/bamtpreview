@@ -35,19 +35,19 @@
                             
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img src="images/our-work/pic1.jpg" alt="">
+                                        <img src="images/slide1.jpeg" alt="">
                                     </div>
                                 </div>
                                 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img src="images/our-work/pic2.jpg" alt="">
+                                        <img src="images/probg.jpeg" alt="">
                                     </div>
                                 </div>
                                 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img src="images/our-work/pic3.jpg" alt="">
+                                        <img src="images/14.jpeg" alt="">
                                     </div>
                                 </div>                                    
                             
@@ -57,7 +57,7 @@
                         <div class="col-lg-5 col-md-12">
                         	<div class="text-justify">
                                 <h2 class="text-uppercase">Painting</h2>
-                                <p class="lead fw-bold">We offer expert painting services that transform your space with a fresh, vibrant look. Our team uses high-quality paints, ensuring a smooth and even application that enhances the aesthetics and longevity of your walls. Whether it’s residential or commercial, we guarantee a polished finish that reflects your style.</p>
+                                <p class="lead">We offer expert painting services that transform your space with a fresh, vibrant look. Our team uses high-quality paints, ensuring a smooth and even application that enhances the aesthetics and longevity of your walls. Whether it’s residential or commercial, we guarantee a polished finish that reflects your style.</p>
                     		</div>
                         </div>                        
                     </div>
@@ -71,7 +71,7 @@
                        <!-- IMAGE CAROUSEL START -->
                     
                     	<!-- TITLE START -->
-                        <!-- <div class="section-head">
+                        <div class="section-head">
                             <h2 class="text-uppercase">Service in Focus </h2>
                             <div class="wt-separator-outer">
                             	<div class="wt-separator style-square">
@@ -79,7 +79,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                             </div>
-                        </div> -->
+                        </div>
                     	<!-- TITLE END -->
                         
                         <!-- CAROUSEL -->
@@ -90,14 +90,11 @@
                                 <div class="item">
                                     <div class="ow-portfolio">
                                         <div class="ow-portfolio-img wt-img-overlay1 wt-img-effect zoom-slow">
-                                            <img src="images/our-work/pic1.jpg" alt="">
+                                            <img src="images/pro1.jpeg" alt="">
                                             <div class="overlay-bx">
                                             	<div class="overlay-icon">
-                                                <a href="images/gallery/pic1.jpg"  class="mfp-link">
+                                                <a href="images/pro1.jpeg"  class="mfp-link">
                                                     <i class="fa fa-search-plus wt-icon-box-xs"></i>
-                                                </a>
-                                                <a href="portfolio-1.html">
-                                                    <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                           </div>
                                             </div>
@@ -108,14 +105,11 @@
                                 <div class="item">
                                     <div class="ow-portfolio">
                                         <div class="ow-portfolio-img wt-img-overlay1 wt-img-effect zoom-slow">
-                                            <img src="images/our-work/pic2.jpg" alt="">
+                                            <img src="images/abt2.jpeg" alt="">
                                             <div class="overlay-bx">
                                             	<div class="overlay-icon">
-                                                <a href="images/gallery/pic2.jpg"  class="mfp-link">
+                                                <a href="images/abt2.jpeg"  class="mfp-link">
                                                     <i class="fa fa-search-plus wt-icon-box-xs"></i>
-                                                </a>
-                                                <a href="portfolio-1.html">
-                                                    <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                           </div>
                                             </div>
@@ -126,14 +120,11 @@
                                 <div class="item">
                                     <div class="ow-portfolio">
                                         <div class="ow-portfolio-img wt-img-overlay1 wt-img-effect zoom-slow">
-                                            <img src="images/our-work/pic3.jpg" alt="">
+                                            <img src="images/abt1.jpeg" alt="">
                                             <div class="overlay-bx">
                                             	<div class="overlay-icon">
-                                                <a href="images/gallery/pic3.jpg"  class="mfp-link">
+                                                <a href="images/abt1.jpeg"  class="mfp-link">
                                                     <i class="fa fa-search-plus wt-icon-box-xs"></i>
-                                                </a>
-                                                <a href="portfolio-1.html">
-                                                    <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                           </div>
                                             </div>
@@ -144,14 +135,11 @@
                                 <div class="item">
                                     <div class="ow-portfolio">
                                         <div class="ow-portfolio-img wt-img-overlay1 wt-img-effect zoom-slow">
-                                            <img src="images/our-work/pic4.jpg" alt="">
+                                            <img src="images/Pro7.jpeg" alt="">
                                             <div class="overlay-bx">
                                             	<div class="overlay-icon">
-                                                <a href="images/gallery/pic4.jpg"  class="mfp-link">
+                                                <a href="images/Pro7.jpeg"  class="mfp-link">
                                                     <i class="fa fa-search-plus wt-icon-box-xs"></i>
-                                                </a>
-                                                <a href="portfolio-1.html">
-                                                    <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                           </div>
                                             </div>
@@ -162,14 +150,11 @@
                                 <div class="item">
                                     <div class="ow-portfolio">
                                         <div class="ow-portfolio-img wt-img-overlay1 wt-img-effect zoom-slow">
-                                            <img src="images/our-work/pic5.jpg" alt="">
+                                            <img src="images/paint.jpeg" alt="">
                                             <div class="overlay-bx">
                                                 <div class="overlay-icon">
-                                                    <a href="images/gallery/pic5.jpg"  class="mfp-link">
+                                                    <a href="images/paint.jpeg"  class="mfp-link">
                                                         <i class="fa fa-search-plus wt-icon-box-xs"></i>
-                                                    </a>
-                                                    <a href="portfolio-1.html">
-                                                        <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                     </a>
                                               </div>
                                             </div>
@@ -180,14 +165,11 @@
                                 <div class="item">
                                     <div class="ow-portfolio">
                                         <div class="ow-portfolio-img wt-img-overlay1 wt-img-effect zoom-slow">
-                                            <img src="images/our-work/pic6.jpg" alt="">
+                                            <img src="images/pro11.jpeg" alt="">
                                             <div class="overlay-bx">
                                                 <div class="overlay-icon">
-                                                    <a href="images/gallery/pic6.jpg"  class="mfp-link">
+                                                    <a href="images/pro11.jpeg"  class="mfp-link">
                                                         <i class="fa fa-search-plus wt-icon-box-xs"></i>
-                                                    </a>
-                                                    <a href="portfolio-1.html">
-                                                        <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                     </a>
                                               </div>
                                             </div>
